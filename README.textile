@@ -1,3 +1,7 @@
+h2. DEPRECATED
+
+window-jump is deprecated. Consider using  alternatives like [chumpy-windows](https://github.com/chumpage/chumpy-windows).
+
 Window-jump.el is an emacs library to directionally navigate your emacs windows.
 
 h2. What does it do?
